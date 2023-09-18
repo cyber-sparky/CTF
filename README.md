@@ -6,7 +6,6 @@ Welcome to the CTF Achievement Repository! This repository is dedicated to showc
 
 - [Introduction](#introduction)
 - [CTF Categories](#ctf-categories)
-- [License](#license)
 
 ## Introduction
 
