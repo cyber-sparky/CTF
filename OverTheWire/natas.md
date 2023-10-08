@@ -39,3 +39,5 @@ With these experiences, I overcame Level 4 and proceeded to Level 5, where the c
 
 Everything we do in hacking/exploitation is interconnected, `EVERY INFORMATION IS VALUABLE`.
 After seeing natas 9 source code, i came to know about that this can be exploited by `Command Execution`, The value of `$_REQUEST["needle"]` is used directly in the `passthru()` function without validation or sanitization, allowing an attacker to manipulate the input to execute arbitrary commands. Then tried `; ls -la`, its listing the files which are present in the directory. In the previous challenge and when initially starting this natas challenge they mentioned `All passwords are also stored in /etc/natas_webpass/.` and ran `; cat etc/natas_webpass/natas10` command and Yeah ! i got the flag for next level
+
+- **Level 11:** `1KFqoJXi6hRaPluAmk8ESDW4fSysRoIg` - command i used : `.* /etc/natas_webpass/natas11`
