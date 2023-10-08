@@ -29,3 +29,4 @@ My initial attempts involved using various tools like **Owasp Zap**, **Burp Suit
 With these experiences, I overcame Level 4 and proceeded to Level 5, where the challenge continued.
 
 - **Level 5:** `Z0NsrtIkJoKALBCLi5eqFfcRN82Au2oD`
+- **Level 6:** `fOIvE0MDtPTgRhqmmvvAOt2EfXR6uQgR`
