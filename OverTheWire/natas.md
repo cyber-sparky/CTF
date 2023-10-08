@@ -1,27 +1,31 @@
-- Level 1: `g9D9cREhslqBKtcA2uocGHPfMZVzeFK6`
-- Level 2: `h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7`
-- Level 3: `G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q`
-- Level 4: `tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm`
+## Natas Challenges Progress:
 
-## Challenge faceed at natas4
-At Level 4 i got stuck and i don't have any idea of solving this problem. I googled for long time. Then i discovered a new concept `referer`,
+- **Level 1:** `g9D9cREhslqBKtcA2uocGHPfMZVzeFK6`
+- **Level 2:** `h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7`
+- **Level 3:** `G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q`
+- **Level 4:** `tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm`
+- **Level 5:** `Z0NsrtIkJoKALBCLi5eqFfcRN82Au2oD`
 
-`The Referer is an HTTP header field that identifies the address of the webpage that linked to the resource being requested. When you click a link on a webpage, your browser includes the Referer header in the request sent to the new page. This header provides the URL of the page from which the request originated.`
+---
 
-I found how to solve the problem, There are many ways we can solve this problem:
-- Owasp zap
-- Burp suite
-- Header editor extension
+## Challenge Faced at Natas Level 4:
 
-Attempt 1:
-I tried installing `zap` but I don't have admin previlege, i tried in my dad's computer which is a 32-bit operating system. `zap` required java 11 to run zap. I tried to downloading java 11 for 32-bit operating system. But i came to know about that java stopped providing 32-bit operating system after `java 8`. Due to that this case failed ☹
+Upon reaching Level 4, I encountered a roadblock and was clueless about solving the problem. After extensive research, I stumbled upon a vital concept: the **Referer** header.
 
-Attempt 2:
-I tried installing burp suite in my dad's computer. Burpsuite require 64-bit to run burpsuite, then i tried searching burpsuite portable version, it nowhere found in the internet. This case also failed ☹
+### Understanding the Referer Header:
 
-Attempt 3:
-I tried installing varies header editor extensions in chrome, firefox and none of them worked properly. Then i found [Referer Control](https://chrome.google.com/webstore/detail/referer-control/hnkcfpcejkafcihlgbojoidoihckciin), Initially i dont have any idea of using this, then i surfed youtube like 30min, then i got little knowledge of how its working. Then i tried after a day. its working properly. 
+The **Referer** header is an HTTP field that reveals the address of the webpage linking to the requested resource. Essentially, when a link is clicked, the browser includes the Referer header in the request, indicating the originating page's URL.
 
-- Level 5 : `Z0NsrtIkJoKALBCLi5eqFfcRN82Au2oD`
+### Solution Exploration:
 
-  
+My initial attempts involved using various tools like **Owasp Zap**, **Burp Suite**, and header editor extensions to manipulate the Referer header. However, each endeavor posed unique challenges:
+
+- **Attempt 1:** I attempted to use **Owasp Zap**, but I faced limitations due to lacking admin privileges. Additionally, my dad's computer, equipped with a 32-bit operating system, couldn't support the required Java 11 version.
+
+- **Attempt 2:** Installing **Burp Suite** presented another hurdle; it demanded a 64-bit system, leading me to search for a portable version without success.
+
+- **Attempt 3:** Turning to browser extensions, I experimented with various header editor extensions for Chrome and Firefox, but none proved effective. After hours of searching, I discovered the **Referer Control** extension. Initially unfamiliar with its workings, I delved into YouTube tutorials, gaining insights after roughly 30 minutes of research. Armed with newfound knowledge, I made a successful attempt the following day.
+
+With these experiences, I overcame Level 4 and proceeded to Level 5, where the challenge continued.
+
+- **Level 5:** `Z0NsrtIkJoKALBCLi5eqFfcRN82Au2oD`
