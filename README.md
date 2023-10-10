@@ -26,5 +26,7 @@ In this repository i am going to cover a wide range of categories, including:
 - Miscellaneous
 
 You can navigate to specific challenge categories or events to explore the solutions and write-ups.
+### Checkout My CTF Accounts
+[PicoCTF](https://play.picoctf.org/users/cybersparky)
 
 Happy hacking!
