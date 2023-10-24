@@ -4,22 +4,22 @@ I'm practicing Capturing the flag in `OverTheWire - Bandit`, Here, they hide
 the password in somewhere, and we need to find it with 
 our technical skills. I'm uploading my level completion here
 
-## Level 0
+Level 0 - `NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL`
 
-NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+Level 1 - `rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi`
 
-## Level 1
+Level 2 - `aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG`
 
-rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+Level 3 - `2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe`
 
-## Level 2
+Level 4 - `lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR`
 
-aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+bandit 6 - `P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU` - find ./ -type f -size 1033c ! -executable
 
-## Level 3
+bandit 7 - `z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S` - find / -user bandit7 -group bandit6 -size 33c -type f | grep -i "password" 
 
-2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+Located in : /var/lib/dpkg/info/bandit7.password 
 
-## Level 4
+bandit 8 - `TESKZC0XvTetK0S9xNwm25STk5iWrBvP` - grep "millionth" data.txt
 
-lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+bandit 9 - `EN632PlfYiZbn3PhVK3XOGSlNInNE00t` - sort data.txt | uniq -u
