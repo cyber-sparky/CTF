@@ -23,5 +23,12 @@ While Solving the level 3, level3 executable file is using strcmp() method compa
 
 - level 4 - `AgvropI4OA`
 
+When I entered in this level there's nothing the home directory, then i started exploring is there any hidden files, and interestingly there's a folder 'trash'. Inside that there a executable file named bin, I cat the file its binary file. when I used ltrace.
+
+<img width="413" alt="image" src="https://github.com/cyber-sparky/CTF/assets/85377859/1cc4b532-4cfa-44c0-8b40-bd817387ddf1">
+
+It's actually reading the password file. when i normally ran the file, it gave me same binary files and i went google searched some binary to text converters. Successfully I am able to find the answer 
+
+- level 5 - `EKKlTF1Xqs`
 
 
