@@ -19,5 +19,9 @@ The access method is doing something in this code, then i try to create a file a
 
 - level 3 - `Q0G8j4sakn`
 
+While Solving the level 3, level3 executable file is using strcmp() method compares two string in c language i guess, i used ltrace command to see whats happening in there ! interesting I was able to see the source code and came to know about what string it is comparing, Its comparing string 'snlprintf', and i tried and got into the machine and got the password in the directory /etc/leviathan_pass/leviathan4
+
+- level 4 - `AgvropI4OA`
+
 
 
