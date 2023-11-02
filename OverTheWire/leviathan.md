@@ -34,3 +34,4 @@ It's actually reading the password file. when i normally ran the file, it gave m
 In this level, there a executable file named `leviathan5` and  when i run its reading a file in /tmp/file.log, But theres no file in /tmp, eventually there's no permission for listing the files in /tmp directory. then i started thinkng is there's any other way, roaming around, then i came back and thinking again, there's no file in /tmp, why wouldn't I create one!. Whats next !? Yeah linking the password file to this file, Used symbolic link to do this. After successfully linking i ran the same file again and I got the answer..!
 
 - level 6 - `YZ55XPVk2l`
+- level 7 - `8GpZ5f8Hze`
