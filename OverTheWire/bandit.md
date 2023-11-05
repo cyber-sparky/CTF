@@ -14,12 +14,12 @@ Level 3 - `2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe`
 
 Level 4 - `lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR`
 
-bandit 6 - `P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU` - find ./ -type f -size 1033c ! -executable
+bandit 5 - `P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU` - find ./ -type f -size 1033c ! -executable
 
-bandit 7 - `z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S` - find / -user bandit7 -group bandit6 -size 33c -type f | grep -i "password" 
+bandit 6 - `z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S` - find / -user bandit7 -group bandit6 -size 33c -type f | grep -i "password" 
 
 Located in : /var/lib/dpkg/info/bandit7.password 
 
-bandit 8 - `TESKZC0XvTetK0S9xNwm25STk5iWrBvP` - grep "millionth" data.txt
+bandit 7 - `TESKZC0XvTetK0S9xNwm25STk5iWrBvP` - grep "millionth" data.txt
 
-bandit 9 - `EN632PlfYiZbn3PhVK3XOGSlNInNE00t` - sort data.txt | uniq -u
+bandit 8 - `EN632PlfYiZbn3PhVK3XOGSlNInNE00t` - sort data.txt | uniq -u
