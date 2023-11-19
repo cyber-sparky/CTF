@@ -29,3 +29,13 @@ bandit 10 - `G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s` - strings data.txt (looks like a 
 bandit 11 - `6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM` -echo -n "encodedString" | base64 -d (for decoding)
 
 bandit 12 - `JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv` (used rot13.com to rotate characters)
+
+bandit 13 - `wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw`
+
+bandit 14 - `fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq`
+
+bandit 15 - `jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt` - (used netcat to connect)
+
+bandit 16 - `JQttfApK4SeyHwDlI9SXGR50qclOAil1` 
+
+bandit 17 - `VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e`
