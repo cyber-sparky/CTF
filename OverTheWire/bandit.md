@@ -39,3 +39,9 @@ bandit 15 - `jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt` - (used netcat to connect)
 bandit 16 - `JQttfApK4SeyHwDlI9SXGR50qclOAil1` 
 
 bandit 17 - `VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e`
+
+bandit 18 - `hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg`
+
+bandit 19 - `awhqfNnAbc1naukrpqDYcF95h7HoMTrC`
+
+bandit 20 - `VxCazJaVykI6W36BkBU0mJTCM8rR95XT`
