@@ -45,3 +45,8 @@ bandit 18 - `hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg`
 bandit 19 - `awhqfNnAbc1naukrpqDYcF95h7HoMTrC`
 
 bandit 20 - `VxCazJaVykI6W36BkBU0mJTCM8rR95XT`
+
+In this level we need to create connect which will listen on a particular port. I used `echo "VxCazJaVykI6W36BkBU0mJTCM8rR95XT" | nc -l -p 1234`, then in the second terminal, try to send the request by giving `./suconnect 1234`, this will return the answer
+
+bandit 21 - `NvEJF7oVjkddltPSrdKEFOllh9V1IBcq` 
+
