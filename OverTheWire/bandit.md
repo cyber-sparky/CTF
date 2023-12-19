@@ -59,3 +59,5 @@ bandit 24 - `VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar`
 bandit 25 - `p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d`
 
 bandit 26 - `c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1`
+
+bandit 27 - `YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS`
