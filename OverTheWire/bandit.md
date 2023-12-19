@@ -67,3 +67,5 @@ bandit 28 - `AVanL161y9rsbcJIsFHuw35rjaOM19nR`
 bandit 29 - `tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S`
 
 bandit 30 - `xbhV3HpNGlTIdnjUrdAlPzc2L6y9EOnS`
+
+bandit 31 - `OoffzGDlzhAlerFJ2cAiz1D41JW1Mhmt`
