@@ -55,3 +55,5 @@ bandit 22 - `WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff`
 bandit 23 - `QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G`
 
 bandit 24 - `VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar`
+
+bandit 25 - `p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d`
